@@ -1,0 +1,7 @@
+2025-03-20 12:45:44,797 - INFO - Deposit: $500 | New Balance: $1500
+2025-03-20 12:45:44,797 - INFO - Withdrawal: $1000 | New Balance: $0
+2025-03-20 12:45:44,798 - WARNING - Insufficient funds for withdrawal: $2000
+2025-03-20 12:45:44,798 - ERROR - Invalid deposit amount: -100
+2025-03-20 12:45:44,798 - ERROR - Invalid withdrawal amount: -100
+2025-03-20 12:45:44,798 - INFO - Withdrawal: $200 | New Balance: $800
+2025-03-20 12:45:44,798 - INFO - Deposit: $0 | New Balance: $1000
